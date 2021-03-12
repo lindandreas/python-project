@@ -1,7 +1,5 @@
 # Truck Registry Service
 
-# python-project
-
 ## Usage
 
 The responses have the form of
